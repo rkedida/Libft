@@ -12,8 +12,7 @@ Character checks and transformations: ft_isalpha, ft_isdigit, ft_isalnum, ft_isa
 Output functions: ft_putchar, ft_putstr, ft_putendl, ft_putnbr
 And many more.
 Installation
-sh
-Copy code
+
 git clone https://github.com/rkedida/Libft.git
 cd Libft
 make
@@ -22,13 +21,10 @@ This will compile the library and generate a libft.a file.
 Usage
 Include the header file (libft.h) in your C project:
 
-c
-Copy code
 #include "libft.h"
 When compiling your project, link with the libft.a file:
 
-sh
-Copy code
+
 gcc your_c_file.c -L. -lft -o your_program_name
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
