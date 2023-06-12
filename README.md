@@ -18,8 +18,9 @@ And many more.
 git clone https://github.com/rkedida/Libft.git
 cd Libft
 make
-This will compile the library and generate a libft.a file.
 ```
+This will compile the library and generate a libft.a file.
+
 
 ## Usage
 Include the header file (libft.h) in your C project:
