@@ -8,8 +8,11 @@ Libft is a project that aims to reimplement some standard C library functions, a
 A library of utility functions, including:
 
 Memory manipulation: ft_memset, ft_bzero, ft_memcpy, ft_memccpy, ft_memmove, ft_memchr, ft_memcmp
+
 String manipulation: ft_strlen, ft_strdup, ft_strcpy, ft_strncpy, ft_strcat, ft_strncat, ft_strlcat, ft_strchr, ft_strrchr, ft_strstr, ft_strnstr, ft_strcmp, ft_strncmp
+
 Character checks and transformations: ft_isalpha, ft_isdigit, ft_isalnum, ft_isascii, ft_isprint, ft_toupper, ft_tolower
+
 Output functions: ft_putchar, ft_putstr, ft_putendl, ft_putnbr
 And many more.
 
