@@ -14,10 +14,12 @@ Output functions: ft_putchar, ft_putstr, ft_putendl, ft_putnbr
 And many more.
 
 ## Installation
+```sh
 git clone https://github.com/rkedida/Libft.git
 cd Libft
 make
 This will compile the library and generate a libft.a file.
+```
 
 ## Usage
 Include the header file (libft.h) in your C project:
