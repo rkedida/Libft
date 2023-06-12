@@ -34,6 +34,3 @@ gcc your_c_file.c -L. -lft -o your_program_name
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-MIT
