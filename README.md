@@ -27,8 +27,8 @@ This will compile the library and generate a libft.a file.
 
 ## Usage
 Include the header file (libft.h) in your C project:
+>#include "libft.h"
 
-#include "libft.h"
 When compiling your project, link with the libft.a file:
 gcc your_c_file.c -L. -lft -o your_program_name
 
